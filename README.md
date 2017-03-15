@@ -1,5 +1,5 @@
 # Arduino-Uygulama
-ATMEL Arduino MEGA 2560 Assembly Code
+Arduino MEGA 2560 Assembly Code
 
 Arduino MEGA 2560 Kartıyla yapılan led uygulaması assembly kodu.
 
